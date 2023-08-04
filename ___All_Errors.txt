@@ -1,0 +1,28 @@
+CorrelationId: 64ab7c82-7175-476b-92a7-d490aea8379a
+UTC DateTime: 08/04/2023 14:59:01
+
+The following files/folders have not been downloaded
+0. Exercicio_Android_Hello/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-b+sr+Latn
+1. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+1X6rOSnpLSkRMmkp8MRNA4qHeI=
+2. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+nGd5tBxDNaZfg89aCasqMDLQRA=
+3. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+x75p6lwyNoBQ_GxoDCFvjgDQLc=
+4. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2FbIxzOX9KAL_S+fJQz0KXGMY+Y=
+5. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2uwtMmdrPCtabsqR+YolZ6qYjmQ=
+6. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/7hsUsl544+m_QToPu45IdBKoKzg=
+7. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8+ddNE9Pa6klDzHdi8+Pgh0K90M=
+8. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9Qoy8kgry31WYmNYkL+442ZVrCM=
+9. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/B567yHRmOPzVsv+peOH_sf193w0=
+10. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CgbaMkzpdw84infm7bF+v4DYbbI=
+11. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/htK4J+l6S7bk7zqCK3TTOuJuZd0=
+12. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/I2ITvFVVEDies6m+mp2_0osa7Wg=
+13. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i62jEz1mUvWLcuO+uRZ00gZj0U0=
+14. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/krR+hu0Nl9UbE7lPzBVWdMF2yKY=
+15. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/M629H+FneLcA+sVJalZwrrfTabg=
+16. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RQdf9GFnZ+6HDFyBfuHGUA1+Z9E=
+17. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Rua9WJ6vos_IU1f5tKIPljXx+7g=
+18. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/syZq4_zuqgzJ6J8t+61apbJVFlM=
+19. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uk_0JyT8DMjI8gnD8JaMHUaZ+N8=
+20. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YvTTlqCG+eQ3CGaaiJz0Q1HZkX4=
+21. Exercicio_Android_Hello/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zCZM6oR2EcgNpVOtJD8CKMkV+1c=
+22. Exercicio_Android_Hello/app/build/intermediates/merged_res/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+23. Exercicio_Android_Hello/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+sr+Latn.json
